@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-<img src="https://gfycat.com/thirdglassarkshell.gif" width=200><br>
+https://gfycat.com/thirdglassarkshell.gif
 
 ### Required Features
 
