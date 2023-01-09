@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-![](https://github.com/polooner/ioscodepath/blob/main/ezgif.com-gif-maker.gif)
+<img src="https://github.com/polooner/ioscodepath/blob/main/ezgif.com-gif-maker.gif" width="200"/>
 
 ### Required Features
 
