@@ -44,7 +44,7 @@ class ViewController: UIViewController {
         let morePetsSwitch: Bool = morePetsSwitch.isOn
         let semesterMood: Float = semesterSlider.value
         
-        var introduction = """
+        let introduction = """
 My name is \(String(describing: firstName)) \(String(describing: lastName)). I attend \(String(describing: majorName)) and major in \(String(describing: majorName)). I am currently in my \(String(describing: year)) year and this semester has been \(Float(semesterMood))% ok. I own \(String(describing: numberOfPets)) pets. It is \(String(describing: morePetsSwitch)) that I want more pets.
 """
         
