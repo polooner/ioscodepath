@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-<img src="https://imgur.com/a/mFHxkqL" width=200><br>
+<img src="https://imgur.com/a/mFHxkqL.gif" width=200><br>
 
 ### Required Features
 
