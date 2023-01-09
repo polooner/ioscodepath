@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-![](http://www.giphy.com/gifs/s2GyJzOoFRYrvztYRh)
+![](https://github.com/polooner/ioscodepath/blob/main/ezgif.com-gif-maker.gif)
 
 ### Required Features
 
