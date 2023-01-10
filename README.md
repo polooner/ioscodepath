@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-<img src="https://github.com/polooner/ioscodepath/blob/main/ezgif.com-gif-maker.gif" width="200"/>
+<img src="https://github.com/polooner/ioscodepath/blob/main/appgif.gif" width="200"/>
 
 ### Required Features
 
